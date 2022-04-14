@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bawan
+- 👋 Hi, I’m Bawani
 - 👀 I’m interested in Project Management
 - 🌱 I’m currently learning about IG.
 - 💞️ I’m looking to collaborate on any team that like to work
