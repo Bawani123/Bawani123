@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Bawani123
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Bawan
+- 👀 I’m interested in Project Management
+- 🌱 I’m currently learning about IG.
+- 💞️ I’m looking to collaborate on any team that like to work
+- 📫 How to reach me ... bawani.info@gmail.com
 
 <!---
 Bawani123/Bawani123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
